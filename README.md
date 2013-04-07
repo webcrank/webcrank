@@ -68,10 +68,13 @@ been taken from Basho's Webmachine, but there are a few other attempts in
 Scala and other typed languages worth mentioning (raise pull request if you
 want to add something to the list, a complete list will be helpful).
 
-    [1] [Basho's Webmachine](https://github.com/basho/webmachine)
-    [2] [Webmachine HTTP Diagram](https://raw.github.com/wiki/basho/webmachine/images/http-headers-status-v3.png)
-    [3] [Stackmob's Scalamachine](https://github.com/stackmob/scalamachine)
-    [4] [@purefn's webapparatus](https://github.com/purefn/purefn-webapparatus)
+  [1] [Basho's Webmachine](https://github.com/basho/webmachine)
+
+  [2] [Webmachine HTTP Diagram](https://raw.github.com/wiki/basho/webmachine/images/http-headers-status-v3.png)
+
+  [3] [Stackmob's Scalamachine](https://github.com/stackmob/scalamachine)
+
+  [4] [@purefn's webapparatus](https://github.com/purefn/purefn-webapparatus)
 
 Issues with the above libraries (and other HTTP stacks in Scala and
 Haskell), the desire for a particularly coherent development approach,
