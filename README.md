@@ -33,7 +33,7 @@ Collaboration
 -------------
 
 Everyone who is interested should feel welcome to contribute, and we
-would like as many people as possible to get involved. Their are a
+would like as many people as possible to get involved. There are a
 number of people who strongly believe we need a strong implementation
 of this type of toolkit in a functional, typed language (or even two),
 and it won't happen without a number of people working together.
