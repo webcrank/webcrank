@@ -24,6 +24,10 @@ not necessary, if the implementations end up being pretty close, but
 it should be possible to leverage testing, docs and other resources
 across both implementations.
 
+See:
+ * <https://github.com/markhibberd/webcrank.hs>
+ * <https://github.com/markhibberd/webcrank.scala>
+
 
 Collaboration
 -------------
