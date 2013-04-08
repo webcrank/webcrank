@@ -90,7 +90,7 @@ Inspiration
 
 This is the result of hard questions, complaints and prodding after a
 twitter conversation between @markhibberd @jedws @possiblywrong
-@dibblego @neutralthoughts @gersei @purefn and a possibly a few others
+@dibblego @neutralthoughts @gersei @purefn and possibly a few others
 that spewed over onto #scalaz.
 
 
