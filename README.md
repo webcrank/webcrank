@@ -25,8 +25,8 @@ it should be possible to leverage testing, docs and other resources
 across both implementations.
 
 See:
- * <https://github.com/markhibberd/webcrank.hs>
- * <https://github.com/markhibberd/webcrank.scala>
+ * <https://github.com/webcrank/webcrank.hs>
+ * <https://github.com/webcrank/webcrank.scala>
 
 
 Collaboration
