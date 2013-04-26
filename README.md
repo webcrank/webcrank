@@ -61,7 +61,7 @@ technical considerations.
 #### Technical considerations
 
   1. Types
-  2. No reflection. Ever.
+  2. No reflection. Ever. (See goal 1)
 
 
 Prior Art
@@ -99,7 +99,7 @@ On HTTP, and worse is worse
 
 When this originally came up, there was a side discussion echoed a few
 times, that can be paraphrased as "HTTP is shit, who cares, why
-bother" (This sounds harsher then it actually was, but it summarises
+bother" (This sounds harsher than it actually was, but it summarises
 the point nicely), and I even agree to some extent with this
 sentiment. But it ignores an important point that is missed too often
 in technology discussions: it really is 'turtles all the way down',
